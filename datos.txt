@@ -1,0 +1,3 @@
+^[0-9]{13}\.[0-9a-z]{8}\-[0-9a-z]{4}\-[0-9a-z]{4}\-[0-9a-z]{4}\-[0-9a-z]{12}@bf08x.hubspotemail.net
+gitkraken@axosoft.com
+03/06/2020
